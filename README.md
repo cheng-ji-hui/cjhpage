@@ -1,2 +1,0 @@
-# cjhpage
-my personal page
